@@ -1,2 +1,2 @@
-# Web Developer Bootcamp 2025 Code and Assignemnts
+# Web Developer Bootcamp 2025 Code and Assignments
  All the code I wrote for a Udemy course to practice my web development
